@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Water Flow FREE/Demo/Scenes/Water Flow FREE Demo (960x600px).unity
+  isLoaded: 1
+  isActive: 1
